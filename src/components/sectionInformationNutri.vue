@@ -18,7 +18,7 @@ export default Vue.extend({});
 
 <style lang="scss" scoped>
 
-.bakcground-section {
+.bakcground-section { 
   height: 600px;
   width: 1200px;
   margin: 0 auto;
