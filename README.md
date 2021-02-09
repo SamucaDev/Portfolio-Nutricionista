@@ -1,4 +1,4 @@
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://github.com/gabrielmayers/amanda)
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://github.com/DevSamuelRodrigues/Portfolio-Nutricionista)
 
 <h1 align="center"><a id="user-content--robot-go-karuna-karuna-go-warning-" class="anchor" aria-hidden="true" href="#-robot-go-karuna-karuna-go-warning-">🌱 Portfólio para nutricionistas 🌱</h1>
 
